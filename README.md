@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krkuhns
+- 👋 Hi, I’m @krkuhns (Kevin Kuhns)
 - 👀 I’m interested in Rocket Software products and tools
 - 🌱 I’m currently learning Process Automation APIs
 - 💞️ I’m looking to collaborate on Process Automation APIs
